@@ -7,17 +7,13 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hari-Milan-Arora&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://hellohari.vercel.app" target="_blank">
+    <b>🌐 View Portfolio</b>
+  </a>
 </p>
 
----
-
-## 🌐 Portfolio
-
 <p align="center">
-  <a href="https://hellohari.vercel.app" target="_blank">
-    <img src="https://image.thum.io/get/width/900/https://hellohari.vercel.app" alt="Portfolio Preview" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Hari-Milan-Arora&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
