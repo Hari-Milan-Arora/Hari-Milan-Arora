@@ -1,41 +1,43 @@
 # Hari Milan Arora
 
-### Founder • Building AI Systems That Replace Manual Work
+<h3 align="center">Founder • Building AI Systems That Replace Manual Work</h3>
 
-I design and build product-grade systems that automate high-effort workflows using AI and scalable backend architectures.
-
-Most of my work is built privately as part of active product development.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI+Products;Scaling+Backend+Systems;Turning+Ideas+Into+Companies" />
+</p>
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Active Builds
 
-* **AEAAS** — Product-focused platform (in development)
-* **AI Board Meeting Slide Generator** — Turning raw data into executive decisions
-* **eConsultation AI** — AI system for large-scale stakeholder analysis (GovTech)
+- **AEAAS** — Product-first platform *(in development)*
+- **AI Board Meeting Slide Generator** — Data → Decisions
+- **eConsultation AI** — Large-scale stakeholder intelligence system
 
 ---
 
 ## 🧠 Focus
 
-* Product-first engineering
-* Backend systems that scale
-* AI applied to real business problems
+- Product-grade engineering  
+- Scalable backend systems  
+- AI applied to real-world workflows  
 
 ---
 
 ## ⚙️ Stack
 
-Python • Node.js • Express • MongoDB • SQL
-LLMs • NLP • APIs • Docker • Vercel • Render
+<p>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb,js,docker" />
+</p>
 
 ---
 
-## 📊 Philosophy
+## 📊 Activity
 
-* Build in private. Launch with intent.
-* Systems over shortcuts
-* Ownership over participation
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hari-Milan-Arora&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hari-Milan-Arora&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -45,11 +47,16 @@ Most repositories are private as they are part of ongoing product development.
 
 ---
 
-## 🔗 Direction
+## 🎯 Direction
 
-Building toward scalable AI-driven companies.
+Building scalable AI-driven companies.
 
 ---
 
-> I am not here to ship code.
-> I am here to build leverage.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+</p>
+
+---
+
+> I don't ship code. I build leverage.
