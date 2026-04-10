@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hari Milan Arora
 
-<!--
-**Hari-Milan-Arora/Hari-Milan-Arora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Founder • Building AI Systems That Replace Manual Work
 
-Here are some ideas to get you started:
+I design and build product-grade systems that automate high-effort workflows using AI and scalable backend architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my work is built privately as part of active product development.
+
+---
+
+## 🚀 What I'm Building
+
+* **AEAAS** — Product-focused platform (in development)
+* **AI Board Meeting Slide Generator** — Turning raw data into executive decisions
+* **eConsultation AI** — AI system for large-scale stakeholder analysis (GovTech)
+
+---
+
+## 🧠 Focus
+
+* Product-first engineering
+* Backend systems that scale
+* AI applied to real business problems
+
+---
+
+## ⚙️ Stack
+
+Python • Node.js • Express • MongoDB • SQL
+LLMs • NLP • APIs • Docker • Vercel • Render
+
+---
+
+## 📊 Philosophy
+
+* Build in private. Launch with intent.
+* Systems over shortcuts
+* Ownership over participation
+
+---
+
+## 📌 Note
+
+Most repositories are private as they are part of ongoing product development.
+
+---
+
+## 🔗 Direction
+
+Building toward scalable AI-driven companies.
+
+---
+
+> I am not here to ship code.
+> I am here to build leverage.
