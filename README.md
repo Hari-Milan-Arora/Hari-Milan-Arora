@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0B0B0F,48:5A1E28,100:FF4655&text=HARI%20MILAN%20ARORA&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=16" width="100%" />
 
-<a href="https://github.com/Hari-Milan-Arora/Hari-Milan-Arora/actions/workflows/contribution-snake.yml"><img src="https://img.shields.io/github/actions/workflow/status/Hari-Milan-Arora/Hari-Milan-Arora/contribution-snake.yml?style=for-the-badge&label=SNAKE%20WORKFLOW&color=FF4655" /></a>\n\n<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FF4655&center=true&vCenter=true&width=850&lines=Engineering+Reliable+Software+Systems;Building+Deliberative+Multi-Agent+AI;Full-Stack+Product+Engineering;Turning+Complex+Problems+Into+Useful+Products" alt="Typing SVG" />
+<a href="https://github.com/Hari-Milan-Arora/Hari-Milan-Arora/actions/workflows/contribution-snake.yml"><img src="https://img.shields.io/github/actions/workflow/status/Hari-Milan-Arora/Hari-Milan-Arora/contribution-snake.yml?style=for-the-badge&label=SNAKE%20WORKFLOW&color=FF4655" /></a>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FF4655&center=true&vCenter=true&width=850&lines=Engineering+Reliable+Software+Systems;Building+Deliberative+Multi-Agent+AI;Full-Stack+Product+Engineering;Turning+Complex+Problems+Into+Useful+Products" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI)-FF4655?style=for-the-badge&labelColor=0B0B0F" />
@@ -222,10 +224,10 @@ The AEaaS work explores how AI components can support structured business tasks,
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hari-Milan-Arora&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=FF4655&icon_color=FF4655&text_color=C9D1D9" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Hari-Milan-Arora&hide_border=true&background=0D1117&ring=FF4655&fire=FF4655&currStreakLabel=FF4655&sideLabels=C9D1D9&dates=8B949E" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hari-Milan-Arora&show_icons=true&hide_border=true&rank_icon=github&bg_color=0B0B0F&title_color=FF4655&icon_color=FF4655&text_color=C9D1D9" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Hari-Milan-Arora&hide_border=true&background=0B0B0F&ring=FF4655&fire=FF4655&currStreakLabel=FF4655&sideLabels=C9D1D9&dates=8B949E" />
 
-<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-Milan-Arora&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF4655&text_color=C9D1D9" />
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-Milan-Arora&layout=compact&hide_border=true&bg_color=0B0B0F&title_color=FF4655&text_color=C9D1D9" />
 
 </div>
 
@@ -242,7 +244,7 @@ The AEaaS work explores how AI components can support structured business tasks,
 ## 11. Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-Milan-Arora&bg_color=0D1117&color=FF9AA2&line=FF4655&point=FF4655&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-Milan-Arora&bg_color=0B0B0F&color=FF9AA2&line=FF4655&point=FF4655&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -290,8 +292,8 @@ open_to:
 ## 14. Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hari-milan-arora/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Hari-Milan-Arora"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hari-milan-arora/"><img src="https://img.shields.io/badge/LinkedIn-Connect-FF4655?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Hari-Milan-Arora"><img src="https://img.shields.io/badge/GitHub-Follow-FF4655?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://hellohari.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore-B52B3A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
@@ -308,5 +310,5 @@ open_to:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1E1B4B,50:FF4655,100:312E81" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B0B0F,50:5A1E28,100:FF4655" width="100%" />
 </div>
