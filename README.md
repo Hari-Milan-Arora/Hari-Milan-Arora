@@ -5,21 +5,21 @@
 <a href="https://github.com/Hari-Milan-Arora/Hari-Milan-Arora/actions/workflows/contribution-snake.yml"><img src="https://img.shields.io/github/actions/workflow/status/Hari-Milan-Arora/Hari-Milan-Arora/contribution-snake.yml?style=for-the-badge&label=SNAKE%20WORKFLOW&color=FF4655" /></a>\n\n<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FF4655&center=true&vCenter=true&width=850&lines=Engineering+Reliable+Software+Systems;Building+Deliberative+Multi-Agent+AI;Full-Stack+Product+Engineering;Turning+Complex+Problems+Into+Useful+Products" alt="Typing SVG" />
 
 <p>
-  <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI)-FF4655?style=for-the-badge&labelColor=111827" />
-  <img src="https://img.shields.io/badge/Graduation-2027-B52B3A?style=for-the-badge&labelColor=111827" />
-  <img src="https://img.shields.io/badge/Location-Ghaziabad%2C%20India-FF4655?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI)-FF4655?style=for-the-badge&labelColor=0B0B0F" />
+  <img src="https://img.shields.io/badge/Graduation-2027-B52B3A?style=for-the-badge&labelColor=0B0B0F" />
+  <img src="https://img.shields.io/badge/Location-Ghaziabad%2C%20India-FF4655?style=for-the-badge&labelColor=0B0B0F" />
 </p>
 
 <p>
   <a href="https://hellohari.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-B52B3A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/hari-milan-arora/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-FF4655?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Hari-Milan-Arora"><img src="https://img.shields.io/badge/GITHUB-Explore%20Code-312E81?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Hari-Milan-Arora"><img src="https://img.shields.io/badge/GITHUB-Explore%20Code-FF4655?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Hari-Milan-Arora&style=for-the-badge&color=FF4655&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/Hari-Milan-Arora?style=for-the-badge&color=FF4655&labelColor=111827&logo=github&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/Hari-Milan-Arora?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=B52B3A&labelColor=111827&logo=github&label=TOTAL%20STARS" />
+  <img src="https://img.shields.io/github/followers/Hari-Milan-Arora?style=for-the-badge&color=FF4655&labelColor=0B0B0F&logo=github&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/Hari-Milan-Arora?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=B52B3A&labelColor=0B0B0F&logo=github&label=TOTAL%20STARS" />
 </p>
 
 </div>
@@ -290,7 +290,6 @@ open_to:
 ## 14. Connect
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to="><img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/hari-milan-arora/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Hari-Milan-Arora"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://hellohari.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore-B52B3A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
