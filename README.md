@@ -1,25 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:312E81,45:5B21B6,100:1E1B4B&text=HARI%20MILAN%20ARORA&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0B0B0F,48:5A1E28,100:FF4655&text=HARI%20MILAN%20ARORA&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=16" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Engineering+Reliable+Software+Systems;Building+Deliberative+Multi-Agent+AI;Full-Stack+Product+Engineering;Turning+Complex+Problems+Into+Useful+Products" alt="Typing SVG" />
+<a href="https://github.com/Hari-Milan-Arora/Hari-Milan-Arora/actions/workflows/contribution-snake.yml"><img src="https://img.shields.io/github/actions/workflow/status/Hari-Milan-Arora/Hari-Milan-Arora/contribution-snake.yml?style=for-the-badge&label=SNAKE%20WORKFLOW&color=FF4655" /></a>\n\n<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FF4655&center=true&vCenter=true&width=850&lines=Engineering+Reliable+Software+Systems;Building+Deliberative+Multi-Agent+AI;Full-Stack+Product+Engineering;Turning+Complex+Problems+Into+Useful+Products" alt="Typing SVG" />
 
 <p>
-  <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI)-5B21B6?style=for-the-badge&labelColor=111827" />
-  <img src="https://img.shields.io/badge/Graduation-2027-4338CA?style=for-the-badge&labelColor=111827" />
-  <img src="https://img.shields.io/badge/Location-Ghaziabad%2C%20India-6D28D9?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI)-FF4655?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Graduation-2027-B52B3A?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Location-Ghaziabad%2C%20India-FF4655?style=for-the-badge&labelColor=111827" />
 </p>
 
 <p>
-  <a href="https://hellohari.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hari-milan-arora/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://hellohari.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-B52B3A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hari-milan-arora/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-FF4655?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Hari-Milan-Arora"><img src="https://img.shields.io/badge/GITHUB-Explore%20Code-312E81?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Hari-Milan-Arora&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/Hari-Milan-Arora?style=for-the-badge&color=5B21B6&labelColor=111827&logo=github&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/Hari-Milan-Arora?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7C3AED&labelColor=111827&logo=github&label=TOTAL%20STARS" />
+  <img src="https://komarev.com/ghpvc/?username=Hari-Milan-Arora&style=for-the-badge&color=FF4655&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/Hari-Milan-Arora?style=for-the-badge&color=FF4655&labelColor=111827&logo=github&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/Hari-Milan-Arora?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=B52B3A&labelColor=111827&logo=github&label=TOTAL%20STARS" />
 </p>
 
 </div>
@@ -222,10 +222,10 @@ The AEaaS work explores how AI components can support structured business tasks,
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hari-Milan-Arora&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Hari-Milan-Arora&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hari-Milan-Arora&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=FF4655&icon_color=FF4655&text_color=C9D1D9" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Hari-Milan-Arora&hide_border=true&background=0D1117&ring=FF4655&fire=FF4655&currStreakLabel=FF4655&sideLabels=C9D1D9&dates=8B949E" />
 
-<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-Milan-Arora&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-Milan-Arora&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF4655&text_color=C9D1D9" />
 
 </div>
 
@@ -242,7 +242,7 @@ The AEaaS work explores how AI components can support structured business tasks,
 ## 11. Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-Milan-Arora&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=DDD6FE&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari-Milan-Arora&bg_color=0D1117&color=FF9AA2&line=FF4655&point=FF4655&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -293,7 +293,7 @@ open_to:
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to="><img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/hari-milan-arora/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Hari-Milan-Arora"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://hellohari.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://hellohari.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore-B52B3A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -309,5 +309,5 @@ open_to:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1E1B4B,50:5B21B6,100:312E81" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1E1B4B,50:FF4655,100:312E81" width="100%" />
 </div>
