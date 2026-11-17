@@ -225,7 +225,7 @@ The AEaaS work explores how AI components can support structured business tasks,
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hari-Milan-Arora&show_icons=true&hide_border=true&rank_icon=github&bg_color=0B0B0F&title_color=FF4655&icon_color=FF4655&text_color=C9D1D9" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Hari-Milan-Arora&hide_border=true&background=0B0B0F&ring=FF4655&fire=FF4655&currStreakLabel=FF4655&sideLabels=C9D1D9&dates=8B949E" />
+<img height="170" src="https://streak-stats.demolab.com/?user=Hari-Milan-Arora&hide_border=true&background=0B0B0F&ring=FF4655&fire=FF4655&currStreakLabel=FF4655&currStreakNum=FFFFFF&sideLabels=C9D1D9&sideNums=FFFFFF&dates=8B949E&stroke=30363D" />
 
 <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-Milan-Arora&layout=compact&hide_border=true&bg_color=0B0B0F&title_color=FF4655&text_color=C9D1D9" />
 
